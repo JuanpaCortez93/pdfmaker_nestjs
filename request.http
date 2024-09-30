@@ -1,0 +1,8 @@
+###Create a hello world
+GET http://localhost:3000/basic-reports/
+
+###Create a report backbone
+GET http://localhost:3000/basic-reports/employment-letter
+
+###Create a report by id
+GET http://localhost:3000/basic-reports/employment-letter/1
