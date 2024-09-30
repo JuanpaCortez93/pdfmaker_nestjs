@@ -1,8 +1,8 @@
-# Ejecutar
+# How to execute this code
 
-1. Clonar el repo
-2. Instalar dependencias `npm install`
-3. Clonar/Generar `.env.template`
-4. Levantar la BBDD `docker compose up -d`
-5. Generar el prisma client: `npx prisma client`
-6. Ejecutar proyecto `npm run start:dev`
+1. Clone the repo
+2. Install dependencies `npm install`
+3. Ctrl+C Ctrl+V `.env.template` and generate `.env`
+4. Create the DB `docker compose up -d`
+5. Generate Prima's client: `npx prisma client`
+6. Execute project `npm run start:dev`
